@@ -1,6 +1,6 @@
-### Hi I'm Daniel 👋
--- I'm a new developer
-## ¡Pura vida!
+### Hi I'm Daniel from Costa Rica👋
+I'm a new developer
+#¡Pura vida!
 ![image](https://github.com/agueroda2004/agueroda2004/assets/139009647/66475b60-6666-4e18-8abb-bad0c7d5f766)
 
 
