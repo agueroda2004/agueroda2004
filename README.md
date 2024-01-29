@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Daniel 👋
+I'm a new developer from Costa Rica ![image](https://github.com/agueroda2004/agueroda2004/assets/139009647/272e6ffe-28c5-438b-803b-c50498374516)
+
 
 <!--
 **agueroda2004/agueroda2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
