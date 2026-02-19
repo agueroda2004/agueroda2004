@@ -5,7 +5,7 @@ I'm a software engineering student and full-stack developer passionate about bui
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agueroda2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ag%C3%BCero-a3b906389/)
 
-### 📂 [Portfolio](https://daniel-aguero.vercel.app/stack)
+### 📂 [Portfolio](https://daniel-aguero.vercel.app)
 ---
 ### 💻 Principal Stack (Full Development)
 - **Frontend** <br>
