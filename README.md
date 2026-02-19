@@ -51,3 +51,4 @@ I'm a software engineering student and full-stack developer passionate about bui
 
 ### 🚀 Currently Working On
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+- working on a personal financial manage app
