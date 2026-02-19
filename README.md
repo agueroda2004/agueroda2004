@@ -1,7 +1,10 @@
 # Hi there, I'm Daniel 👋
 
 ### ▪️ About me 
-I'm a software engineering student and full-stack developer passionate about building scalable and efficient software solutions that solve real-world problems. I enjoy tackling complex challenges and currently hold a **B2 English level**.
+I'm a software engineering student and full-stack developer passionate about building scalable and efficient software solutions that solve real-world problems. I enjoy tackling complex challenges and currently hold a **B2 English level**. <br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agueroda2004@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/agu_dani04)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-agüero-a3b906389)
 
 ### 📂 [Portfolio](https://daniel-aguero.vercel.app/stack)
 ---
