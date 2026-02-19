@@ -1,8 +1,10 @@
 # Hi there, I'm Daniel 👋
 
 ### ▪️ About me 
-I'm a software engineering student and full-stack developer passionate about building scalable and efficient software solutions that solve real-world problems. I enjoy tackling complex challenges and currently hold a **B2 English level**. When I'm not coding, you can probably find me training (push/pull/legs!) or playing a good open-world game. 
+I'm a software engineering student and full-stack developer passionate about building scalable and efficient software solutions that solve real-world problems. I enjoy tackling complex challenges and currently hold a **B2 English level**.
 
+### 📂 [Portfolio](https://daniel-aguero.vercel.app/stack)
+---
 ### 💻 Principal Stack (Full Development)
 - **Frontend** <br>
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
