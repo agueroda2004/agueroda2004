@@ -9,7 +9,7 @@ I'm a software engineering student and full-stack developer passionate about bui
 ---
 ### 💻 Principal Stack (Full Development)
 - **Frontend** <br>
-  ![My Skills](https://skillicons.dev/icons?i=html,tailwind,react,typescript)
+  ![My Skills](https://skillicons.dev/icons?i=tailwind,react,typescript)
 
 - **Backend (Serverless Functions)** <br>
   ![My Skills](https://skillicons.dev/icons?i=vercel)
