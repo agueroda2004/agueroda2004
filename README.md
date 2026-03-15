@@ -7,7 +7,7 @@ I'm a software engineering student and full-stack developer passionate about bui
 
 ---
 
-### 📂 [Portfolio](https://agueroda/dev)
+### 📂 [Portfolio](https://agueroda.dev)
 
 ---
 
